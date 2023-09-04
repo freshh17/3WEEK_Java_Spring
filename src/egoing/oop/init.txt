@@ -1,0 +1,40 @@
+<<egoing생활코딩 자바 oop객체지향프로그래밍 파일 순서>>
+1. init.txt
+2. OthersOOP.java
+3. myoop/method/MyOOP.java
+4. myoop/class1/MyOOP.java
+5. myoop/instance/MyOOP.java
+6. static1/StaticApp.java
+
+# Object Oriented Programming
+객체 지향 프로그래밍 쌩기초 개념 정리.
+
+## method
+함수 function, subroutine, procedural, procedure
+
+## procedural programming
+절차 지향 프로그래밍
+자바에서 절차지향프로그래밍의 패러다임은
+- procedural 그러니까 method를 시용해서 프로그램을 정리 정돈 하는 기법.
+- 메소드를 이용해서 작은 부품을 만들고 이것을 결합해서 더 큰 프로그램을 만들어가는 테크닉.
+ex) c언어
+
+그러나 절차 지향만 가지고는 불편함을 느끼기 시작.
+그러니까 메소드만 가지고서는 도저히 정리가 안 되기 시작함.
+그래서 새로운 개념. 클래스가 등장했다.
+
+## Class
+클래스
+- 서로 연관된 메소드와 변수들을 모아서 그룹핑하고 거기에 이름을 붙여서 정리 정돈을 함.
+
+## OOP
+객체 지향 프로그래밍
+- 클래스를 중심으로 프로그램의 구조를 만들어가는 컴퓨터 프로그래밍 방법론.
+객체 지향 언어
+- 객체 지향 프로그래밍 방법론을 언어 차원에서 지원함.
+
+현대 프로그래밍 언어를 바치고 있는 기둥 객체 지향 프로그래밍을 배워 보자.
+- 코드를 단정하게 정리 정돈 하는 방법
+- 객체의 분신술인 인스턴스
+- 부모 클래스의 기능을 자식 클래스에 물려주는 상속
+- 클래스의 설계도 인터페이스
