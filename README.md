@@ -18,7 +18,7 @@
 > 모든 내용은 기본적으로 코드로 정리. </br>
 > 이론이 필요한 경우 코드 내 주석으로 정리함.
 
-### 1. [객체 지향 프로그래밍](/scr/egoing/oop)
+### 1. [객체 지향 프로그래밍](https://github.com/freshh17/3WEEK_Java_Spring/tree/main/src/egoing/oop)
 
 - 클래스, 상속, 인터페이스 등등 기초 개념 복습
 - **`레퍼런스`**
